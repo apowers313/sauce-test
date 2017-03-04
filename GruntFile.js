@@ -17,9 +17,9 @@ module.exports = function(grunt) {
     }, {
         browserName: 'firefox',
         platform: 'Linux'
-    }, {
-        browserName: 'opera',
-        platform: 'Windows 7'
+    // }, {
+    //     browserName: 'opera',
+    //     platform: 'Windows 7'
     }, {
         browserName: 'chrome',
         platform: 'macOS 10.12'
